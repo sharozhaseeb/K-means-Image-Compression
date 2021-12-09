@@ -5,7 +5,7 @@ Reducing the number of different colors reduce the size of the image a lot as th
 I have used skimage for image input output & sklearn.cluster for kmeans algorithm.
 
 # To run the program following dependencies should be added;
-pip install sklearn\n
-pip install skimage\n
+pip install sklearn /n
+pip install skimage \n
 ## Make sure the correct path is added where you are placing your image files.
 
