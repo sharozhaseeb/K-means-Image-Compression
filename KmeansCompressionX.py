@@ -45,7 +45,7 @@ for cluster in clusters:
     compressed_image = compressed_image.reshape(rows,cols,3)
 
 # Save and display
-    os.chdir("C:\\Users\\Omen\\Desktop\\ML ass5") # put your result image path here
-    io.imsave("panda_compressed" + str(clusters)+".png",compressed_image)
+    os.chdir("") # put your result image path here
+    io.imsave("compressed" + str(clusters)+".png",compressed_image)
     io.imshow(compressed_image)
     io.show()
