@@ -4,7 +4,7 @@ I have implemented an unsupervised image compression program using K-means clust
 Reducing the number of different colors reduce the size of the image a lot as the pixels can be mapped as a vector corresponding to a single RGB value rather than all pixels having unique values. <br/>
 I have used skimage for image input output & sklearn.cluster for kmeans algorithm.
 
-# To run the program following dependencies should be added;
+## To run the program following dependencies have to be installed;
 pip install sklearn <br/>
 pip install skimage <br/>
 ## Make sure the correct path is added where you are placing your image files.
