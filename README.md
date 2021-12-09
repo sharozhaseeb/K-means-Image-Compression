@@ -13,7 +13,6 @@ I used cluster values 2,3,5,10,15 and 20 and got the following results. <br/>
 
 #### for k = 2; 
 ![face k=2](https://user-images.githubusercontent.com/83841336/145389208-5179080f-7396-41f5-936e-d38205e6df16.png)
-![k=15](https://user-images.githubusercontent.com/83841336/145389238-2bb32901-2a94-491c-b3c3-0c64a4bd89a3.png)
 #### for k = 3;
 ![face k=3](https://user-images.githubusercontent.com/83841336/145389232-87bd0adf-1066-48fe-9e30-dde57447a471.png)
 #### for k = 5;
